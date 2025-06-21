@@ -6,3 +6,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+This projects helps me in demonstration of how the linux shells work in input and output operations 
