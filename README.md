@@ -28,3 +28,5 @@ bash simple_interest.sh
 Input your principal, rate, and time — the script will return the calculated interest instantly.
 
 This project is useful for demonstarting the basic bash commands and gain a signinficant knowledge on Linux.
+
+Feel free to reach us
