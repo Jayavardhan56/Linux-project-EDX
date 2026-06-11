@@ -30,3 +30,4 @@ Input your principal, rate, and time — the script will return the calculated i
 This project is useful for demonstarting the basic bash commands and gain a signinficant knowledge on Linux.
 
 Using this I am also Learning how to work with Git and Github
+Feel free to reach us
