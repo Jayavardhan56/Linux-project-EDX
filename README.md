@@ -39,4 +39,7 @@ This project is useful for demonstarting the basic bash commands and gain a sign
 
 Using this I am also Learning how to work with Git and Github
 
+Using Linux we can also understand the core Devops Principles
+
 Feel free to reach us
+
